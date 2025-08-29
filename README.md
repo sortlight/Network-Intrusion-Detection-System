@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Network-Intrusion-Detection-System
-NIDS you need 
-=======
-# IT Security Analyst: Network Intrusion Detection System
+# Network Intrusion Detection System
 
 [![Bash](https://img.shields.io/badge/Bash-Scripting-green.svg)](https://www.gnu.org/software/bash/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -41,9 +37,15 @@ Network threats like port scans or DDoS attacks can cripple systems fast. Thatâ€
 ### Install
 
    ```bash
-   git clone https://github.com/yourusername/network-intrusion-detection-system.git
-   cd network-intrusion-detection-system
+   git clone https://github.com/sortlight/Network-Intrusion-Detection-System.git
+   cd Network-Intrusion-Detection-System
 
-    ```
-# NIDS
->>>>>>> d7fa230 (NIDS)
+  ```
+
+# LICENSE
+
+MIT
+
+# Author
+
+Written by [Sortsec](https://github.com/sortlight)
